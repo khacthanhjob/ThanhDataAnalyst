@@ -1,0 +1,5 @@
+.agent/
+.gemini/
+.cursorrules
+node_modules/
+.DS_Store
