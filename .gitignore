@@ -1,5 +1,12 @@
-.agent/
-.gemini/
-.cursorrules
-node_modules/
+# Chỉ đăng các file của trang web lên GitHub Pages
 .DS_Store
+.claude/
+CLAUDE.md
+tmp/
+docs/
+tools/
+node_modules/
+Dockerfile
+compose.yaml
+nginx.conf
+.dockerignore
